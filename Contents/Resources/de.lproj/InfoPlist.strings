@@ -1,0 +1,3 @@
+"CFBundleName" = "In Paparazzi öffnen";
+"LBSummary" = "Öffnet das aktuelle Safari oder Google Chrome Tab/Fenster in Paparazzi. Gleichzeitig wird selbiges auch im anderen Browser geschlossen. Im Falle das keine weiteren Tabs oder Fenster im anderen Browser geöffnet sind wird Safari oder Google Chrome geschlossen. Die Aktion geht davon aus, dass nicht beide Browser aktiv sind.";
+"LBRequirements" = "Benötigt eine aktive Internetverbindung.";
